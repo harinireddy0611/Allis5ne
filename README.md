@@ -18,7 +18,7 @@ Allis5ne is a prototype platform designed to assess mental health and offer gami
 
 ## Repository
 
-You can access the project's repository [here](https://github.com/yourusername/allis5ne).
+You can access the project's repository [here](https://github.com/harinireddy0611/Allis5ne).
 
 ## Installation Guide
 
